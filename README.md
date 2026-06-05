@@ -1,5 +1,5 @@
 
-https://chatgpt.com/backend-api/estuary/content?id=file_00000000988471f5a46e04d658b7265a&ts=494621&p=fsns&cid=1&sig=808090af1618c7f46b5637ec43dc46bcd47b08d93dd3ca1fa23180401309295a&v=0
+<img width="1536" height="1024" alt="6cbaff9c-7411-4c3f-bbb8-5b57dd875076" src="https://github.com/user-attachments/assets/1a24557d-2d01-4026-902f-4f00ef00edd2" />
 
 # Hi, I'm Ahmad 👋
 
