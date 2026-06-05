@@ -1,7 +1,7 @@
 
 <img width="1536" height="1024" alt="6cbaff9c-7411-4c3f-bbb8-5b57dd875076" src="https://github.com/user-attachments/assets/1a24557d-2d01-4026-902f-4f00ef00edd2" />
 
-# Hi, I'm Ahmad 👋
+# Hi, My Name Is Ahmad 👋
 
 ## CompTIA A+ Certified • CompTIA Tech+ Certified • Passionate About Technology, Automation, and Continuous Learning
 
