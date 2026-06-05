@@ -3,7 +3,7 @@
 
 # Hi, I'm Ahmad 👋
 
-## IT Support | Systems Administration | Cybersecurity Enthusiast
+## CompTIA A+ Certified • CompTIA Tech+ Certified • Passionate About Technology, Automation, and Continuous Learning
 
 I'm an aspiring IT professional with a passion for troubleshooting technology, automating tasks with PowerShell, and learning how modern systems, networks, and cloud environments operate.
 
@@ -15,6 +15,7 @@ Currently focused on:
 - Cybersecurity Concepts
 - Virtualization & Cloud Technologies
 - Git & GitHub
+- Computer Hardware
 
 ---
 
@@ -62,6 +63,7 @@ Built a virtual lab to practice:
 - Group Policy
 - User Management
 - Network Troubleshooting
+- Created an API
 
 ### Networking Labs
 Hands-on practice with:
@@ -79,6 +81,7 @@ Hands-on practice with:
 - Azure Fundamentals
 - Linux Administration
 - Security Operations (SOC Concepts)
+- AWS
 
 ---
 
@@ -90,8 +93,8 @@ To build a career in IT Support, Systems Administration, or Cybersecurity where 
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
-- GitHub: https://github.com/YourUsername
+- LinkedIn: www.linkedin.com/in/ahmadalmahtar
+- GitHub: https://github.com/SwaggKingKong2222
 
 ---
 
