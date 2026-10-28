@@ -2,7 +2,7 @@
 
 # Hi, My Name Is Ahmad 
 
-## CompTIA A+ Certified • CompTIA Tech+ and A+ Certified • Passionate About Technology, Automation, and Continuous Learning
+## CompTIA Tech+ and A+ Certified • Passionate About Technology, Automation, and Continuous Learning
 
 I'm an aspiring IT professional with a passion for troubleshooting technology, automating tasks with PowerShell, and learning how modern systems, networks, and cloud environments operate.
 
