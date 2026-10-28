@@ -18,7 +18,7 @@ Currently focused on:
 
 
 
- Technical Skills
+ ## Technical Skills
 
 ### Operating Systems
 - Windows 10/11
