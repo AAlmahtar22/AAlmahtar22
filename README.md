@@ -1,7 +1,6 @@
 
-<img width="1536" height="1024" alt="6cbaff9c-7411-4c3f-bbb8-5b57dd875076" src="https://github.com/user-attachments/assets/1a24557d-2d01-4026-902f-4f00ef00edd2" />
 
-# Hi, My Name Is Ahmad 👋
+# Hi, My Name Is Ahmad 
 
 ## CompTIA A+ Certified • CompTIA Tech+ and A+ Certified • Passionate About Technology, Automation, and Continuous Learning
 
@@ -17,9 +16,9 @@ Currently focused on:
 - Git & GitHub
 - Computer Hardware
 
----
 
-## 🛠 Technical Skills
+
+ Technical Skills
 
 ### Operating Systems
 - Windows 10/11
@@ -49,9 +48,9 @@ Currently focused on:
 - Active Directory
 - Microsoft 365
 
----
 
-## 📂 Featured Projects
+
+## Featured Projects
 
 ### PowerShell Automation Scripts
 Scripts created to automate common administrative tasks and improve efficiency.
@@ -72,9 +71,9 @@ Hands-on practice with:
 - DHCP Services
 - VPN Technologies
 
----
 
-## 📚 Currently Learning
+
+## Currently Learning
 
 - Advanced PowerShell
 - Windows Server Administration
@@ -83,19 +82,18 @@ Hands-on practice with:
 - Security Operations (SOC Concepts)
 - AWS
 
----
 
-## 🎯 Career Goal
+
+## Career Goal
 
 To build a career in IT Support, Systems Administration, or Cybersecurity where I can continuously learn, solve complex problems, and help organizations maintain secure and reliable technology environments.
 
----
 
 ## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/ahmadalmahtar
 - GitHub: https://github.com/AAlmahtar22
 
----
+
 
 > "Technology rewards curiosity. Every lab, script, and troubleshooting session is an opportunity to learn something new."
