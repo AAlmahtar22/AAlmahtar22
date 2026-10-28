@@ -86,7 +86,7 @@ Hands-on practice with:
 
 ## Career Goal
 
-To build a career in IT Support, Systems Administration, or Cybersecurity where I can continuously learn, solve complex problems, and help organizations maintain secure and reliable technology environments.
+To build a career in IT Support, Systems Administration, Cybersecurity or Network Engineering. where I can continuously learn, solve complex problems, and help organizations maintain secure and reliable technology environments.
 
 
 ## Connect With Me
