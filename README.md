@@ -89,7 +89,7 @@ Hands-on practice with:
 To build a career in IT Support, Systems Administration, or Cybersecurity where I can continuously learn, solve complex problems, and help organizations maintain secure and reliable technology environments.
 
 
-## 📫 Connect With Me
+## Connect With Me
 
 - LinkedIn: www.linkedin.com/in/ahmadalmahtar
 - GitHub: https://github.com/AAlmahtar22
