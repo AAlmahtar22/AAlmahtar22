@@ -96,4 +96,4 @@ To build a career in IT Support, Systems Administration, or Cybersecurity where 
 
 
 
-> "Technology rewards curiosity. Every lab, script, and troubleshooting session is an opportunity to learn something new."
+ "Technology rewards curiosity. Every lab, script, and troubleshooting session is an opportunity to learn something new."
